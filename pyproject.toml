@@ -1,0 +1,8 @@
+[project]
+name = "qianniu-ai-copilot"
+version = "0.2.0"
+description = "Windows local AI copilot for Qianniu customer service without Taobao API"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
